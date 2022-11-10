@@ -10,4 +10,6 @@
 					  [Link der Schule](https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry "Hogwarts School")  
 *2020-2022*			  `public void Hochschule_Furtwangen(int matrikelnummer)`
 					  
-					  
+
+###An image of a crying cat		  
+![Kitty](https://github.com/TheRiotJoker/Einkaufsliste/blob/newBranch/crying.jpg "A crying cat")
