@@ -8,6 +8,6 @@
 
 *1999-2020:*	      Hogwarts School of Witchcraft and Wizardry  
 					  [Link der Schule](https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry "Hogwarts School")  
-*2020-2022*			  ´Hochschule Furtwangen()´  
+*2020-2022*			  `public void Hochschule_Furtwangen(int matrikelnummer)`
 					  
 					  
