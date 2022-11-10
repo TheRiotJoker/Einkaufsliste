@@ -1,4 +1,4 @@
-#Marko Jurkic: Lebenslauf
+# Marko Jurkic: Lebenslauf
 
 **Geburtsdatum:**	 16.09.2420  
 **Adresse:**		 Am Großhausberg 2  
@@ -11,5 +11,5 @@
 *2020-2022*			  `public void Hochschule_Furtwangen(int matrikelnummer)`
 					  
 
-###An image of a crying cat		  
+### An image of a crying cat		  
 ![Kitty](https://github.com/TheRiotJoker/Einkaufsliste/blob/newBranch/crying.jpg "A crying cat")
